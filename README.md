@@ -7,7 +7,7 @@
  | **Batch**        | **Batch**           | **Batch**  |
 | :-------------: |:-------------:|:-----:|
 | ![Data Science Orientation](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/data-science-orientation.png)     | ![Open Source Tools](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/open-source-tools-for-data-science.png) | ![Data Science methodology](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/data-science-methodology.png) |
-| ![Python for Data Science & AI](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/python-for-data-science-and-ai.png)     | ![Open Source Tools]( ) | ![Data Science methodology]( ) |
+| ![Python for Data Science & AI](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/python-for-data-science-and-ai.png)     | ![Databases and SQL for Data Science](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/databases-and-sql-for-data-science.png) | ![Data Science methodology]( ) |
 
 
 ## SAS Visual Business Analytics Certification

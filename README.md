@@ -3,4 +3,4 @@
 
  | **Batch**        | **Batch**           | **Batch**  |
 | :-------------: |:-------------:|:-----:|
-| ![Data Science Orientation](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/data-science-orientation.png)     | [Open Source Tools](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/open-source-tools-for-data-science.png) | Ph.D., Data Scientist, IBM Developer Skills Network |
+| ![Data Science Orientation](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/data-science-orientation.png)     | ![Open Source Tools](https://github.com/Ashleshk/Coursera-Batches-Earned/blob/master/open-source-tools-for-data-science.png) | Ph.D., Data Scientist, IBM Developer Skills Network |
